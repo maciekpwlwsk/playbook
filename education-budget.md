@@ -91,7 +91,7 @@ You should also be able to request an invoice by emailing a seller.
 Please upload an invoice to HTD Google Drive to an appropriate folder [in this folder](https://drive.google.com/drive/u/0/folders/16DkUDYhmmbshk0LZVc2h7apVt6FlgBRz). If you have a paper invoice then please scan it to pdf and then upload it. One of the apps you can use to scan documents into pdf format is Dropbox.
 
 ### What if I need to make a transfer?
-If you need to make a transfer please contact with [Magda Z] on Slack.
+If you need to make a transfer please contact with [Ania G] on Slack.
 
 ### Should I report that I bought anything using my education budget?
 Yes. Add an entry to ["Education budgets - expenses" Google Spreadsheet](https://docs.google.com/spreadsheets/d/1WE352gD6To8EomFf-xK0UvMtNNw8hyXYUIZKOh4RPuM/edit#gid=0) as soon as you buy anything.
@@ -129,6 +129,9 @@ Please be reasonable and use the budget as if it was your own money. The educati
 - Ticket price: 150PLN
 - Accommodation price: 52 EURO per double room (2 ppl) per night
 - Fuel price: N/A
+
+### Can I still use the Education Budget during the period of notice?
+Unfortunately, during the period of notice Education Budget is unavailable.
 
 ### Anything else?
 If you have any question feel free to post it on a public #ama-edu-budget channel.
